@@ -28,7 +28,13 @@ streamlit run pdf_extractor.py
 Then:  
 1. Open the provided link in your web browser.  
 2. Upload a PDF file.  
-3. Extract and download tables in Excel format.  
+3. Extract and download tables in Excel format.
+
+# Output
+
+![image](https://github.com/user-attachments/assets/80fa64cc-9108-45da-93b4-e9de82fa739c)
+
+![image](https://github.com/user-attachments/assets/af03682d-687f-4e8c-a086-c2c9909b8a80)
 
 
 
